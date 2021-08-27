@@ -1,1 +1,1 @@
-# ArtGallert
+# ArtGallery
